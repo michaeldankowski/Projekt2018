@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/projekt/Pulpit/Projekt2018/sources/main.cpp
+iostream
+-
+thread
+-
+vector
+-
+memory
+-
+map
+-
+mutex
+-
+atomic
+-
+cstring
+-
+string
+-
+fstream
+-
+
