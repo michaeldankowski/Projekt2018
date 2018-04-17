@@ -27,4 +27,8 @@ string
 -
 fstream
 -
+netinet/in.h
+-
+sys/socket.h
+-
 
